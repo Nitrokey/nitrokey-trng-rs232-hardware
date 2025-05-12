@@ -513,7 +513,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "panel/trng-serial-2x10-panel-gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
