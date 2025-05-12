@@ -1,0 +1,41 @@
+{
+    "layout": {
+        "alternation": "cols",
+        "rows": "10",
+        "cols": "2",
+        "vbonecut": "False"
+    },
+    "source": {
+        "tolerance": "10mm"
+    },
+    "tabs": {
+        "type": "annotation"
+    },
+    "cuts": {
+        "type": "vcuts"
+    },
+    "framing": {
+        "type": "frame",
+        "hspace": "3mm",
+        "vspace": "0.3mm",
+        "width": "4mm",
+        "mintotalheight": "253.49mm",
+        "mintotalwidth": "90.69mm",
+        "maxtotalheight": "253.51mm",
+        "maxtotalwidth": "90.71mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3mm",
+        "voffset": "3mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "3.5mm",
+        "voffset": "16mm"
+    },
+    "post": {
+        "copperfill": "True",
+        "millradius": "0.4mm"
+    }
+}
